@@ -1,0 +1,7 @@
+django==2.0.6
+djangorestframework==3.8.2
+djangorestframework-jwt==1.11.0
+redis==2.10.6
+channels==2.1.2
+django-background-tasks==1.1.13
+channels-redis==2.2.1
